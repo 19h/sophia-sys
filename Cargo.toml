@@ -1,0 +1,9 @@
+[package]
+authors = ["Kenan Sulayman <kenan@sly.mn>"]
+build = "build.rs"
+name = "sophia-sys"
+version = "0.1.0"
+description="Sophia bindings for Rust"
+license="MIT"
+
+[dependencies]
